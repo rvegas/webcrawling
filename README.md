@@ -14,3 +14,7 @@
 
 - Artículo: https://benbernardblog.com/web-scraping-and-crawling-are-perfectly-legal-right/ 
 - Demanda: https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?referer=https://benbernardblog.com/&httpsredir=1&article=2261&context=historical 
+
+## Documental sobre Aaron Swartz
+
+- https://www.youtube.com/watch?v=Dv6t21xXogY 
